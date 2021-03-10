@@ -1,2 +1,3 @@
 # morphine
-If I have to explain you will never know, if you know you need no explaination
+
+If you have to ask, you'll never know. If you know, you need only ask.
